@@ -1,7 +1,0 @@
-
-^
-java:S1075"ARefactor your code to get this URI from a customizable parameter.(Æ­ûå8¸•ò’ø.
-W
-java:S1118
-":Add a private constructor to hide the implicit public one.(¼ıæü8ñ€“ø.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(³Ÿ½8æÍ«“ø.
