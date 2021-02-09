@@ -1,0 +1,17 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ãü8Ã×Ÿ“ø.
+U
+java:S3655"3Call "args.isPresent()" before accessing the value.(Äì‡€øÿÿÿÿ8Äõ­“ø.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(´ÑßÆ8ñ¿ “ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®Ş–ûÿÿÿÿ8ôâ§“ø.
+T
+java:S3655"2Call "cmd.isPresent()" before accessing the value.(ª“¤Çùÿÿÿÿ8¶®“ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Äì‡€øÿÿÿÿ8’Ë§“ø.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(’Ñ•8µó“ø.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥’³ş8ôâ§“ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ª“¤Çùÿÿÿÿ8ôâ§“ø.
+Y
+java:S3655"7Call "cpuUsage.isPresent()" before accessing the value.(®Ş–ûÿÿÿÿ8«Ã®“ø.
+U
+java:S3655"8Call "startTime.isPresent()" before accessing the value.(¥’³ş8«Ã®“ø.
